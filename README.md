@@ -4,8 +4,21 @@ Fundacja prowadzi bezpłatne szkoły zarówno stacjonarne jak i z możiwością 
 Full Stack Developer (php/laravel)
 ## Poziom
 Mid/Senior
-## Zakres wiedzy, doświadczenia jest mile widziany aby aplikować na stanowisko
+## Zakres wiedzy, doświadczenia jaki jest mile widziany aby aplikować na stanowisko
 - dasdasd
 - sadfasf
 - asfddsaf
 - adsfasdf
+## Dodatkowe atuty jakie byłby pomocne w naszym dziale it to znajomość przykładowych zagadnień (z nimi nasz dział it ma doczynienia w codziennej pracy)
+- Google Workspace (dawniej G Suite)
+- centrale freePBX
+- Wordpress (Elementor)
+- MikrTik/Ubi
+- FreeNas/TrueNas
+- Wireguard
+- Windows 10
+- Linux (Debian/Ubuntu)
+- Docker
+
+## Najważniejsze wymaganie
+To posiadać swoją własną pasję umieć się nią dzielić i zarażać. Na wszystko czym się zajmujemy przelewamy nasze zaangarzowanie i pasję. 
