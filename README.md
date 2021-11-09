@@ -24,5 +24,10 @@ Mid/Senior
 ## Najważniejsze wymaganie
 To posiadać swoją własną pasję umieć się nią dzielić i zarażać. Na wszystko czym się zajmujemy przelewamy nasze zaangarzowanie i pasję. 
 
+## Miejsce pracy
+- praca zdalna,
+- okazjonalne spotkanie grupy roboczej przed rozpoczęciem budowania kolejnego etapu (Bielsko-Biała, Żywiec, Koszarawa),
+- i/lub możliwość pracy w naszym biurze stacjonarnym Żywiec.
+
 ## Kontakt w sprawie pracy
 it-praca@szkolamontessori.com.pl
