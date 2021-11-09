@@ -22,3 +22,6 @@ Mid/Senior
 
 ## Najważniejsze wymaganie
 To posiadać swoją własną pasję umieć się nią dzielić i zarażać. Na wszystko czym się zajmujemy przelewamy nasze zaangarzowanie i pasję. 
+
+## Kontakt w sprawie pracy
+it-praca@szkolamontessori.com.pl
