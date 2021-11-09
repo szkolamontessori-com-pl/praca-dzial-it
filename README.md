@@ -11,7 +11,7 @@ Mid/Senior
 - adsfasdf
 ## Dodatkowe atuty jakie byłby pomocne w naszym dziale it to znajomość przykładowych zagadnień (z nimi nasz dział it ma doczynienia w codziennej pracy)
 - Google Workspace (dawniej G Suite)
-- centrale freePBX
+- freePBX
 - Wordpress (Elementor)
 - MikroTik/Ubiquiti 
 - FreeNas/TrueNas
@@ -19,6 +19,7 @@ Mid/Senior
 - Windows 10
 - Linux (Debian/Ubuntu)
 - Docker
+- Raspberry Pi
 
 ## Najważniejsze wymaganie
 To posiadać swoją własną pasję umieć się nią dzielić i zarażać. Na wszystko czym się zajmujemy przelewamy nasze zaangarzowanie i pasję. 
