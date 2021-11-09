@@ -13,7 +13,7 @@ Mid/Senior
 - Google Workspace (dawniej G Suite)
 - centrale freePBX
 - Wordpress (Elementor)
-- MikrTik/Ubi
+- MikroTik/Ubiquiti 
 - FreeNas/TrueNas
 - Wireguard
 - Windows 10
