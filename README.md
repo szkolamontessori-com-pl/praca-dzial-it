@@ -3,7 +3,7 @@ Fundacja prowadzi bezpłatne szkoły zarówno stacjonarne jak i z możiwością 
 ## Stanowisko pracy
 Full Stack Developer (php/laravel)
 ## Poziom
-Mid/Senior
+Junior/Mid/Senior
 ## Zakres wiedzy, doświadczenia jaki jest mile widziany aby aplikować na stanowisko
 - dasdasd
 - sadfasf
